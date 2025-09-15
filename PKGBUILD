@@ -19,5 +19,11 @@ build() {
 
 package() {
   cd "$pkgname-$pkgver"
-  install -Dm755 build/gflops-bench "$pkgdir/usr/bin/gflops-bench"
+  # Grab binary from wherever it landed
+  if [[ -f build/gflops-bench ]]; then
+      install -Dm755 build/gflops-bench "$pkgdir/usr/bin/gflops-bench"
+  else
+      install -Dm755 gflops-bench "$pkgdir/usr/bin/gflops-bench"
+  fi
 }
+

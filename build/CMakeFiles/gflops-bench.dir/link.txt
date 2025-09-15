@@ -1,0 +1,1 @@
+/usr/bin/c++  -mavx -O3 -DNDEBUG -static -static-libgcc -static-libstdc++ -Wl,--dependency-file=CMakeFiles/gflops-bench.dir/link.d "CMakeFiles/gflops-bench.dir/main.cpp.o" -o gflops-bench
