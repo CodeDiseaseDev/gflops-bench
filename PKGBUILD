@@ -1,6 +1,6 @@
 # Maintainer: Your Name <youremail@example.com>
 pkgname=gflops-bench
-pkgver=1.0.0
+pkgver=1.0.2
 pkgrel=1
 pkgdesc="Brutal-mode multithreaded CPU benchmark reporting GFLOP/s"
 arch=('x86_64')
