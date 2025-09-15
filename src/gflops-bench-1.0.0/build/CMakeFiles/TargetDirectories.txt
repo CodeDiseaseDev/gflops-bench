@@ -1,0 +1,3 @@
+/home/code/CLionProjects/multithreading-fun/src/gflops-bench-1.0.0/build/CMakeFiles/multithreading_fun.dir
+/home/code/CLionProjects/multithreading-fun/src/gflops-bench-1.0.0/build/CMakeFiles/edit_cache.dir
+/home/code/CLionProjects/multithreading-fun/src/gflops-bench-1.0.0/build/CMakeFiles/rebuild_cache.dir

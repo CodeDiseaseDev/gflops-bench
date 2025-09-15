@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/code/CLionProjects/multithreading-fun/src/gflops-bench-1.0.0/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
